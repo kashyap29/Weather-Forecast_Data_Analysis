@@ -27,13 +27,13 @@ Maximum wind speed (mph)
 Maximum gust speed (mph)
 Maximum heat index (°F)
 
-# Module 1: Pre-processing, Analysing data using SQL
+# 1: Pre-processing, Analysing data using SQL
 
 In this module, I did query the dataset using structured query language to gain insights from the database. 
 The problem statements to be solved will be provided and I had provided the solution for the same using your logic. 
 Different concepts of SQL will be used in this process such as aggregating the data, grouping the data, ordering the data, etc. 
 Module 1 consists of subtasks which are there in the SQL file.
 
-# Module 2: Visualizing data using Power BI
+# 2: Visualizing data using Power BI
 
 Link for the Power BI dashboard : 
