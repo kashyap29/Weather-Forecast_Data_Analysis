@@ -36,4 +36,4 @@ Module 1 consists of subtasks which are there in the SQL file.
 
 # 2: Visualizing data using Power BI
 
-Link for the Power BI dashboard : 
+Link for the Power BI dashboard : https://youtu.be/riuOypQOD6o
